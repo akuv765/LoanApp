@@ -5,3 +5,6 @@
 /.vs
 /LoanAssigment/.vs/LoanAssigment
 /LoanAssigment/LoanAssigment/obj
+/LoanAssigment/LoanApp/bin/Debug/net6.0
+/LoanAssigment/LoanApp/obj
+/LoanAssigment/LoanAssigment/bin/Debug/net6.0
